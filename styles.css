@@ -71,7 +71,7 @@ h2.light-blue {
 }
 
 .background {
-  background-image: url(../Project_images/contemporaryrainbowangles.jpg);
+  background-image: url(contemporaryrainbowangles.jpg);
   background-size: cover;
   padding: 2em;
 }
@@ -284,7 +284,7 @@ section p a {
 ---------------------------------------*/
 
 .work-experience {
-  background-image: url(../Project_images/brick-wall-painted-white.jpg);
+  background-image: url(brick-wall-painted-white.jpg);
   background-size: contain;
 }
 
@@ -319,7 +319,7 @@ section p a {
 /* Contact Info
 ---------------------------------------*/
 footer {
-  background-image: url(../Project_images/blackheaderbackground.jpg);
+  background-image: url(blackheaderbackground.jpg);
   color: #add3ffff;
   padding: 20px;
 }
