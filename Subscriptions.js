@@ -1,12 +1,11 @@
 import React, { useState } from "react";
 import "./styles.css";
 
-class Subscriptions extends React.Component {
-    export default function App() {
-        const [values, setValues] = useState({
-            firstName:"",
-            lastName:"",
-            email:"",
+export default function App() {
+    const [values, setValues] = useState({
+        firstName:"",
+        lastName:"",
+        email:"",
     });
 
   const [submitted, setSubmitted] = useState(false);
@@ -73,5 +72,4 @@ class Subscriptions extends React.Component {
       </form>
     </div>
   );
-}
 }
